@@ -1,0 +1,32 @@
+*{
+    background-color: blue;
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    -webkit-text-stroke: 1px red;
+    font-weight: 800;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+
+main{
+    width: 1vw;
+    height: 900px;
+    
+}
+img{
+    position: relative;
+    left: 500px;
+    text-align: center;
+    width: 60vw;
+    height: 800px;
+}
+
+footer{
+    text-align: center;
+    background-color: red;
+    color: white;
+}
