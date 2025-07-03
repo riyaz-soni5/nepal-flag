@@ -1,3 +1,3 @@
-# nepal-flag
+# Nepal Flag
  
- just one of the usless website to visit while bored.
+ Just one of the usless website to visit while bored and feel proud. 
